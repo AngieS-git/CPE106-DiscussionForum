@@ -16,5 +16,26 @@ namespace CPE106
 		{
 			InitializeComponent();
 		}
+
+		private void button9_Click(object sender, EventArgs e)
+		{
+			this.Hide();
+			HomePage homePage = new HomePage();
+			homePage.Show();
+		}
+
+		private void button2_Click(object sender, EventArgs e)
+		{
+			this.Hide();
+			Bookmarks Bookmarkspage = new Bookmarks();
+			Bookmarkspage.Show();
+		}
+
+		private void button3_Click(object sender, EventArgs e)
+		{
+			this.Hide();
+			LoginPage LogPage = new LoginPage();
+            LogPage.Show();
+		}
 	}
 }

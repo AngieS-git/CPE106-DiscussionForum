@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\CODES\\CPE106-DiscussionForum-main\\Homepage\\CPE106\\CPE106.csproj": {}
+    "G:\\CODES\\CPE106-DiscussionForum-master\\Homepage\\CPE106\\CPE106.csproj": {}
   },
   "projects": {
-    "G:\\CODES\\CPE106-DiscussionForum-main\\Homepage\\CPE106\\CPE106.csproj": {
+    "G:\\CODES\\CPE106-DiscussionForum-master\\Homepage\\CPE106\\CPE106.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\CODES\\CPE106-DiscussionForum-main\\Homepage\\CPE106\\CPE106.csproj",
+        "projectUniqueName": "G:\\CODES\\CPE106-DiscussionForum-master\\Homepage\\CPE106\\CPE106.csproj",
         "projectName": "CPE106",
-        "projectPath": "G:\\CODES\\CPE106-DiscussionForum-main\\Homepage\\CPE106\\CPE106.csproj",
+        "projectPath": "G:\\CODES\\CPE106-DiscussionForum-master\\Homepage\\CPE106\\CPE106.csproj",
         "packagesPath": "C:\\Users\\anjii\\.nuget\\packages\\",
-        "outputPath": "G:\\CODES\\CPE106-DiscussionForum-main\\Homepage\\CPE106\\obj\\",
+        "outputPath": "G:\\CODES\\CPE106-DiscussionForum-master\\Homepage\\CPE106\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

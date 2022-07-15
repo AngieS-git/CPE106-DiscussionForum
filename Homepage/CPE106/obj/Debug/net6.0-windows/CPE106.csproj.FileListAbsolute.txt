@@ -1,57 +1,25 @@
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\bin\Debug\net6.0-windows\CPE106.exe
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\bin\Debug\net6.0-windows\CPE106.deps.json
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\bin\Debug\net6.0-windows\CPE106.runtimeconfig.json
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\bin\Debug\net6.0-windows\CPE106.dll
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\bin\Debug\net6.0-windows\CPE106.pdb
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.AssemblyReference.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.GenerateResource.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.GeneratedMSBuildEditorConfig.editorconfig
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.AssemblyInfoInputs.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.AssemblyInfo.cs
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.CoreCompileInputs.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.dll
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\refint\CPE106.dll
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.pdb
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.genruntimeconfig.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\ref\CPE106.dll
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.Properties.Resources.resources
-D:\MAPUA\2nd Year\4th Term\CPE106\CPE106\CPE106\obj\Debug\net6.0-windows\CPE106.HomePage.resources
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.exe
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.deps.json
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.runtimeconfig.json
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.dll
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.pdb
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.AssemblyReference.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.HomePage.resources
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.Properties.Resources.resources
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.GenerateResource.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.GeneratedMSBuildEditorConfig.editorconfig
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.AssemblyInfoInputs.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.AssemblyInfo.cs
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.CoreCompileInputs.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.dll
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\refint\CPE106.dll
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.pdb
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.genruntimeconfig.cache
-D:\MAPUA\2nd Year\4th Term\CPE106\HomePage\Homepage\CPE106\obj\Debug\net6.0-windows\ref\CPE106.dll
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.exe
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.deps.json
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.runtimeconfig.json
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.dll
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.pdb
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.AssemblyReference.cache
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.HomePage.resources
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.Properties.Resources.resources
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.GenerateResource.cache
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.GeneratedMSBuildEditorConfig.editorconfig
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.AssemblyInfoInputs.cache
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.AssemblyInfo.cs
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.CoreCompileInputs.cache
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.dll
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\refint\CPE106.dll
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.pdb
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.genruntimeconfig.cache
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\ref\CPE106.dll
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.Bookmarks.resources
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.Profile.resources
-G:\CODES\CPE106-DiscussionForum-main\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.SamplePost.resources
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.exe
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.deps.json
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.runtimeconfig.json
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.dll
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\bin\Debug\net6.0-windows\CPE106.pdb
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.AssemblyReference.cache
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.Bookmarks.resources
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.HomePage.resources
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.PostAQ.resources
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.Profile.resources
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.Properties.Resources.resources
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.SamplePost.resources
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.GenerateResource.cache
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.AssemblyInfoInputs.cache
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.AssemblyInfo.cs
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.csproj.CoreCompileInputs.cache
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.dll
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\refint\CPE106.dll
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.pdb
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.genruntimeconfig.cache
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\ref\CPE106.dll
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.LoginPage.resources
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.Form2.resources
+G:\CODES\CPE106-DiscussionForum-master\Homepage\CPE106\obj\Debug\net6.0-windows\CPE106.Notifications.resources

@@ -89,6 +89,7 @@
 			this.button2.Size = new System.Drawing.Size(50, 44);
 			this.button2.TabIndex = 3;
 			this.button2.UseVisualStyleBackColor = false;
+			this.button2.Click += new System.EventHandler(this.button2_Click);
 			// 
 			// SamplePost
 			// 
@@ -101,6 +102,7 @@
 			this.Controls.Add(this.richTextBox1);
 			this.Controls.Add(this.pictureBox1);
 			this.Name = "SamplePost";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "SamplePost";
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			this.panel1.ResumeLayout(false);
