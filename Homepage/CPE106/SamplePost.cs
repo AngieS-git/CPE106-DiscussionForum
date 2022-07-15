@@ -39,5 +39,12 @@ namespace CPE106
 				richTextBox1.ForeColor = Color.Silver;
 			}
 		}
+
+		private void button2_Click(object sender, EventArgs e)
+		{
+			this.Hide();
+			HomePage Homepage = new HomePage();
+			Homepage.Show();
+		}
 	}
 }

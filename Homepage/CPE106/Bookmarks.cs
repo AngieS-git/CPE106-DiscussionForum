@@ -31,5 +31,31 @@ namespace CPE106
 		{
 			this.button8.BackColor = Color.FromArgb(255, 98, 98);
 		}
+
+		private void button9_Click(object sender, EventArgs e)
+		{
+			this.Hide();
+			HomePage Homepage = new HomePage();
+			Homepage.Show();
+		}
+
+		private void PROFILE_Click(object sender, EventArgs e)
+		{
+			this.Hide();
+			Profile showProfile = new Profile();
+			showProfile.Show();
+		}
+
+		private void button3_Click(object sender, EventArgs e)
+		{
+			this.Hide();
+			LoginPage LogPage = new LoginPage();
+            LogPage.Show();
+		}
+
+		private void Bookmarks_Load(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

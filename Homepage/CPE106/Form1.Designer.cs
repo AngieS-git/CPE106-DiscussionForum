@@ -79,7 +79,7 @@
 			this.panel1.Controls.Add(this.button3);
 			this.panel1.Controls.Add(this.button2);
 			this.panel1.Controls.Add(this.PROFILE);
-			this.panel1.Location = new System.Drawing.Point(-15, 217);
+			this.panel1.Location = new System.Drawing.Point(13, 217);
 			this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.panel1.Name = "panel1";
 			this.panel1.Size = new System.Drawing.Size(197, 182);
@@ -141,11 +141,12 @@
 			this.panel4.Controls.Add(this.button5);
 			this.panel4.Controls.Add(this.button4);
 			this.panel4.Controls.Add(this.searchTag);
-			this.panel4.Location = new System.Drawing.Point(204, 217);
+			this.panel4.Location = new System.Drawing.Point(216, 217);
 			this.panel4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.panel4.Name = "panel4";
-			this.panel4.Size = new System.Drawing.Size(860, 52);
+			this.panel4.Size = new System.Drawing.Size(848, 52);
 			this.panel4.TabIndex = 2;
+			this.panel4.Paint += new System.Windows.Forms.PaintEventHandler(this.panel4_Paint);
 			// 
 			// button5
 			// 
@@ -176,7 +177,7 @@
 			// 
 			this.searchTag.Font = new System.Drawing.Font("Bahnschrift", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
 			this.searchTag.ForeColor = System.Drawing.Color.DarkGray;
-			this.searchTag.Location = new System.Drawing.Point(435, 16);
+			this.searchTag.Location = new System.Drawing.Point(407, 16);
 			this.searchTag.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.searchTag.Name = "searchTag";
 			this.searchTag.Size = new System.Drawing.Size(414, 24);
@@ -191,7 +192,7 @@
 			this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))), ((int)(((byte)(214)))));
 			this.panel6.Controls.Add(this.button7);
 			this.panel6.Controls.Add(this.PostQuestion);
-			this.panel6.Location = new System.Drawing.Point(204, 280);
+			this.panel6.Location = new System.Drawing.Point(216, 279);
 			this.panel6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.panel6.Name = "panel6";
 			this.panel6.Size = new System.Drawing.Size(778, 78);
@@ -221,6 +222,7 @@
 			this.PostQuestion.TabIndex = 7;
 			this.PostQuestion.Text = "Post a question...";
 			this.PostQuestion.TextChanged += new System.EventHandler(this.PostQuestion_TextChanged);
+			this.PostQuestion.DoubleClick += new System.EventHandler(this.PostQuestion_DoubleClick);
 			this.PostQuestion.Enter += new System.EventHandler(this.PostQuestion_Enter);
 			this.PostQuestion.Leave += new System.EventHandler(this.PostQuestion_Leave);
 			// 
@@ -420,7 +422,7 @@
 			// pictureBox3
 			// 
 			this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-			this.pictureBox3.Location = new System.Drawing.Point(204, 533);
+			this.pictureBox3.Location = new System.Drawing.Point(216, 533);
 			this.pictureBox3.Name = "pictureBox3";
 			this.pictureBox3.Size = new System.Drawing.Size(778, 359);
 			this.pictureBox3.TabIndex = 20;
@@ -429,7 +431,7 @@
 			// pictureBox4
 			// 
 			this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-			this.pictureBox4.Location = new System.Drawing.Point(204, 370);
+			this.pictureBox4.Location = new System.Drawing.Point(216, 369);
 			this.pictureBox4.Name = "pictureBox4";
 			this.pictureBox4.Size = new System.Drawing.Size(778, 158);
 			this.pictureBox4.TabIndex = 21;
@@ -468,7 +470,8 @@
 			this.Controls.Add(this.pictureBox4);
 			this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.Name = "HomePage";
-			this.Text = "Home Page";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+			this.Text = "HomePage";
 			this.Load += new System.EventHandler(this.Form1_Load);
 			((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
 			this.panel1.ResumeLayout(false);

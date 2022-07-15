@@ -17,17 +17,25 @@ namespace CPE106
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Bookmarks BookmarksPage = new Bookmarks();
+            BookmarksPage.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Profile ProfilePage = new Profile();
+            ProfilePage.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            LoginPage LogPage = new LoginPage();
+            LogPage.Show();
+             
+            
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -52,7 +60,9 @@ namespace CPE106
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Notifications Notifs = new Notifications();
+            Notifs.Show();
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
@@ -316,7 +326,9 @@ namespace CPE106
 
 		private void pictureBox4_Click(object sender, EventArgs e)
 		{
-
+            this.Hide();
+            SamplePost showSP = new SamplePost();
+            showSP.Show();
 		}
 
 		private void PostQuestion_TextChanged(object sender, EventArgs e)
@@ -325,6 +337,18 @@ namespace CPE106
 		}
 
 		private void searchTag_TextChanged_1(object sender, EventArgs e)
+		{
+
+		}
+
+		private void PostQuestion_DoubleClick(object sender, EventArgs e)
+		{
+            this.Hide();
+            PostAQ PostQ = new PostAQ();
+            PostQ.Show();
+		}
+
+		private void panel4_Paint(object sender, PaintEventArgs e)
 		{
 
 		}
